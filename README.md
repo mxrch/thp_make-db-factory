@@ -1,4 +1,4 @@
-# The Hacking Project - Database of Blog
+# The Hacking Project - Database of factories
 
 
 ## :mag: The content
